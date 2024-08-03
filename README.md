@@ -16,4 +16,4 @@ The training process has been adapted to incorporate uncertainty-aware learning.
 We used a 3D multi-class ICH dataset for this project. The dataset includes various types of intracranial hemorrhages, and our modifications aim to improve the segmentation of these different classes with better uncertainty quantification.
 
 # Paper
-- click [here](https://)
+- click [here](https://github.com/WeiHan00457030/nnUNet_uncertainty-aware-learning/blob/main/dissertation.pdf)
